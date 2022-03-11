@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Manu Maccaglia
+#### A noobie web developer who really likes learning new things
 
+
+- 🌱 I’m currently learning Javascript, as I tend to become a Frontend web developer.
+- 👀 I’m interested in React, but i'll get there soon
+- 📫 How to reach me: you can email me at manuelmaccaglia@gmail.com
 <!--
 **manumaccaglia/manumaccaglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
